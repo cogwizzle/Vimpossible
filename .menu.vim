@@ -42,5 +42,6 @@ function! CreateGitMenu()
   \ ])
 endfunction
 
+
 " Map Main menu to \m
 nnoremap <Leader>m :execute CreateMainMenu()<CR>

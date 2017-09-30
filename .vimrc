@@ -37,7 +37,7 @@ set smarttab
 set hlsearch
 " Autocomplete
 set omnifunc=syntaxcomplete#Complete
-:set completeopt-=preview
+set completeopt-=preview
 
 " ======== Include ==================
-source ~/.vimmenu
+source ~/.menu.vim
